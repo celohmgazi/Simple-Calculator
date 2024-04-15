@@ -1,0 +1,22 @@
+Calculator Application
+│
+├── calculator.py          # Main application logic
+│
+├── gui.py                 # GUI implementation using Tkinter or PyQt
+│
+├── math_functions.py      # Additional math functions like exponentiation, square roots, etc.
+│
+├── history.py             # History feature implementation
+│
+└── customization.py       # Customization options implementation
+
+
+    calculator.py would handle the core logic of performing calculations.
+    
+    gui.py would create the graphical user interface and handle user interactions.
+    
+    math_functions.py would contain functions for advanced mathematical operations.
+    
+    history.py would manage the history of calculations.
+    
+    customization.py would handle customization options.
