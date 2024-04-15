@@ -1,9 +1,8 @@
-# Weather-App
-- Graphical Visualization: Display weather data using graphs and charts to illustrate trends
-over time.
-- Multiple API Integration: Fetch weather information from multiple APIs to provide
-comprehensive forecasts.
-- User Preferences: Allow users to customize their weather preferences and receive
-personalized updates.
-- Location-based Notifications: Implement notifications based on the user's current location or
-saved locations
+# Simple Calculator
+- Advanced Operations: Extend the calculator to support scientific functions like
+exponentiation, square roots, and trigonometry.
+- Graphical User Interface: Design a user-friendly GUI using Tkinter or PyQt for ease of use.
+- History Feature: Implement a history feature to track previous calculations and allow users to
+recall and reuse them.
+- Customization Options: Allow users to customize the appearance and behavior of the
+calculator according to their preferences.
